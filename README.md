@@ -29,7 +29,14 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a cybersecurity graduate based in Lucknow, India, with a practical interest in security operations, vulnerability assessment, web security, and digital forensics.<br><br>Most of my learning comes from actually working with security tools, building projects, solving labs, and investigating security scenarios rather than only studying the theory.<br><br>I'm particularly interested in understanding what happened, how it happened, how to detect it, and how it can be prevented.</p>
+<p data-importer="text" align="left">I'm a cybersecurity graduate with an <b>M.Sc. in Cybersecurity & Cyber Law </b> from Marwadi University and a <b>BCA</b> from Integral University.
+
+I'm interested in figuring out how systems can be attacked, how those attacks can be detected, and how the underlying security issues can be fixed. My focus is mainly around **SOC operations, vulnerability assessment, web security, and digital forensics**.
+
+I use **TryHackMe, HackTheBox, CyberDefenders, security labs, and my own projects** to keep turning what I learn into something I can actually practice.
+
+I don't want to just know what a security tool does — **I want to understand when, why, and how to use it.**
+</p>
 
 ###
 
