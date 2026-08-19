@@ -41,6 +41,25 @@ I don't want to just know what a security tool does — **I want to understand w
 ###
 
 <h3 data-importer="text" align="left">🛠 Technicial and tools</h3>
+<p align="left">
+  <img
+    src="https://github.com/0xK4dir/0xk4dir/blob/main/Tech%20Stack.jpg"
+    alt="Cybersecurity Mind Map"
+    width="100%"
+  />
+</p>
+
+###
+
+<p align="left">
+  <img
+    src="https://github.com/0xK4dir/0xk4dir/blob/main/Tool%20stack.jpg"
+    alt="Cybersecurity Mind Map"
+    width="100%"
+  />
+</p>
+
+###
 
 ###
 
