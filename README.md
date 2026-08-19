@@ -1,7 +1,7 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 data-importer="text" align="center">Hey there 👋</h1>
 
+###
+![logo](https://github.com/0xK4dir/0xk4dir/blob/main/StockCake-Hacker_in_Action-1308613-standard.jpg)
 ###
 
 <div data-importer="socials" align="center">
@@ -24,12 +24,6 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=0xk4dir.0xk4dir&"  />
 </div>
-
-###
-
-<h1 data-importer="text" align="center">Hey there 👋</h1>
-
-###
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
